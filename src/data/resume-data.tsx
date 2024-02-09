@@ -29,19 +29,19 @@ export const RESUME_DATA = {
   summary:
     "Recently graduated (2023) in Math and Econ, I'm a budding Full-Stack Engineer skilled in JavaScript, TypeScript, Java, React, and Node.js. During my academic journey, I honed my craft through various internships, contributing to diverse projects and gaining valuable remote work experience with global teams.",
   avatarUrl: "https://avatars.githubusercontent.com/u/139425758?v=4",
-  personalWebsiteUrl: "https://mangeshahirrao.com",
+  personalWebsiteUrl: "https://mangeshahirrao.vercel.app/",
   contact: {
     email: "mahirrao925@gmail.com",
     tel: "+1-515-817-3053",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/itsmaangesh",
+        url: "https://github.com/mangesh925",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/mangesh-ahirrao/",
+        url: "https://www.linkedin.com/in/mangesh925/",
         icon: LinkedInIcon,
       },
       {
