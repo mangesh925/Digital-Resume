@@ -25,7 +25,8 @@ export const RESUME_DATA = {
   location: "Ames, IA, USA",
   locationLink:
     "https://www.google.com/maps/place/Ames,+IA/@42.0259777,-93.7911813,11z/data=!3m1!4b1!4m6!3m5!1s0x87ee70624634a06b:0x273156083cc75200!8m2!3d42.0307812!4d-93.6319131!16zL20vMG5tag?entry=ttu",
-  about: "Full Stack Engineer with 4 years of experience",
+  about:
+    "Full Stack Engineer with 2 years of experience with Internships and remote projects",
   summary:
     "Recently graduated (2023) in Math and Econ, I'm a budding Full-Stack Engineer skilled in JavaScript, TypeScript, Java, React, and Node.js. During my academic journey, I honed my craft through various internships, contributing to diverse projects and gaining valuable remote work experience with global teams.",
   avatarUrl: "https://avatars.githubusercontent.com/u/139425758?v=4",
